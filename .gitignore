@@ -1,0 +1,13 @@
+# dependencies
+__pycache__
+.pytest_cache
+
+# env
+.env
+
+# output
+latest_frame.png
+
+# IDE
+.vscode
+.idea

@@ -1,0 +1,5 @@
+dotenv==0.9.9 ; python_version >= "3.10" and python_version < "4.0"
+pillow==11.1.0 ; python_version >= "3.10" and python_version < "4.0"
+python-dotenv==1.0.1 ; python_version >= "3.10" and python_version < "4.0"
+schedule==1.2.2 ; python_version >= "3.10" and python_version < "4.0"
+yt-dlp==2025.2.19 ; python_version >= "3.10" and python_version < "4.0"

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "inky-yt-capture"
+version = "1.0.0"
+description = ""
+authors = ["Robert <robert@rrayns.co.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yt-dlp = "^2025.2.19"
+schedule = "^1.2.2"
+pillow = "^11.1.0"
+dotenv = "^0.9.9"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
