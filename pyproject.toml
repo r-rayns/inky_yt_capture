@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "inky-yt-capture"
-version = "1.0.0"
+version = "1.1.0"
 description = ""
 authors = ["Robert <robert@rrayns.co.uk>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 yt-dlp = "^2025.2.19"
 schedule = "^1.2.2"
 pillow = "^11.1.0"
